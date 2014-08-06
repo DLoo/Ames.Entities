@@ -1,0 +1,9 @@
+c:\users\donaldloo\documents\visual studio 2013\Projects\Ames.Entities\obj\Debug\Ames.Entities.csprojResolveAssemblyReference.cache
+c:\users\donaldloo\documents\visual studio 2013\Projects\Ames.Entities\bin\Debug\Ames.Entities.dll
+c:\users\donaldloo\documents\visual studio 2013\Projects\Ames.Entities\bin\Debug\Ames.Entities.pdb
+c:\users\donaldloo\documents\visual studio 2013\Projects\Ames.Entities\obj\Debug\Ames.Entities.dll
+c:\users\donaldloo\documents\visual studio 2013\Projects\Ames.Entities\obj\Debug\Ames.Entities.pdb
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\Ames.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\Ames.Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\Ames.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\Ames.Entities\bin\Debug\System.Net.Http.Formatting.xml
